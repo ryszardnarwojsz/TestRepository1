@@ -4,7 +4,8 @@ public class test1 {
 
         // test pusha
        System.out.println("Hello");
-
+       // 3 push
+            System.out.println("3commit");
     }
 
 }
